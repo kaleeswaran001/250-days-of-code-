@@ -1,0 +1,30 @@
+1)Create a biodata by  getting details from user input.
+
+
+2)Write a program which does the following:
+Find out and display the area of a rectangle of sides 45 and 76 respectively.
+Declare variables length, width and area and assign the relevant values to them.
+Print the area of the rectangle.
+
+
+3)Write a program which does the following:
+Find the area of a circle whose radius is 8.9. Take pi = 3.14.
+Declare variables radius, pi and area and assign the relevant values to them.
+Formula for area of a circle is Pi * radius * radius.
+
+
+4)Write a program which does the following:
+Declare two string variables a & b.
+Assign the values "python" to a and "easy" to b.
+Display the variables in a single line without any space between them.
+
+
+5)Area and Perimeter of Square
+Write a program to find the area and perimeter of square whose side length is 4.5. 
+On the first line, print square's area and on the second line, its perimeter.
+
+
+6)What is the output if amount = 50, weight = 2?
+If the total is ₹100 and the discount is 20%, how much will be paid?
+
+
